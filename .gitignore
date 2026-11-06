@@ -1,0 +1,47 @@
+# Keep only the reproducible project and its recorded results at the root.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/MILESTONES.md
+!/requirements.txt
+!/requirements.lock
+!/pytest.ini
+!/run_all.py
+!/src/
+!/experiments/
+!/tests/
+!/theory/
+!/report/
+!/results/
+
+# These are local presentation and learning materials, not project outputs.
+/LEARNING.md
+/learning/
+/presentation/
+/output/
+
+# Keep the report generator and the final scientific report.
+/report/*
+!/report/__init__.py
+!/report/build_report.py
+!/report/report.md
+!/report/report.pdf
+
+# Ignore local environments, caches, editor files, and credentials everywhere.
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.cache/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+.env
+.env.*
+*.pem
+*.key

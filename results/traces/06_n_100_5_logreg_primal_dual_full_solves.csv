@@ -1,0 +1,10 @@
+phase,mode,dimension,success,seconds
+newton,symmetric,11,True,2.2499996703118086e-05
+newton,symmetric,11,True,2.2584019461646676e-05
+newton,symmetric,11,True,2.045798464678228e-05
+newton,symmetric,11,True,1.937500201165676e-05
+newton,symmetric,11,True,1.970797893591225e-05
+newton,symmetric,11,True,1.9749975763261318e-05
+newton,symmetric,11,True,2.0791980205103755e-05
+newton,symmetric,11,True,1.854199217632413e-05
+newton,symmetric,11,True,2.025000867433846e-05

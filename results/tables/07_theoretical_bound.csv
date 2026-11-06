@@ -1,0 +1,2 @@
+observed_steps,observed_damped,observed_quadratic,damped_bound,quadratic_bound,total_bound,initial_gap_upper,tau,centering_tolerance,applies_to
+32,30,2,6390,4,6394,171.6025198376811,1.0,1e-08,SVM analytic policy only

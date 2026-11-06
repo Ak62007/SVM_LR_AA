@@ -1,0 +1,17 @@
+phase,mode,dimension,success,seconds
+newton,symmetric,9,True,2.0749983377754688e-05
+newton,symmetric,9,True,1.6667007002979517e-05
+newton,symmetric,9,True,1.541702658869326e-05
+newton,symmetric,9,True,1.49579718708992e-05
+newton,symmetric,9,True,3.72079957742244e-05
+newton,symmetric,9,True,1.4999997802078724e-05
+newton,symmetric,9,True,1.5375000657513738e-05
+newton,symmetric,9,True,1.504199462942779e-05
+newton,symmetric,9,True,1.4958000974729657e-05
+newton,symmetric,9,True,1.604200224392116e-05
+newton,symmetric,9,True,1.4249992091208696e-05
+newton,symmetric,9,True,1.5833997167646885e-05
+newton,symmetric,9,True,1.4582998119294643e-05
+newton,symmetric,9,True,1.3917015166953206e-05
+newton,symmetric,9,True,1.575000351294875e-05
+certificate,lstsq,9,True,2.333297743462026e-05
